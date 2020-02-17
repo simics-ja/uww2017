@@ -1,0 +1,52 @@
+* {
+  letter-spacing: .1em;
+}
+
+.navbar-brand {
+  background: url("../images/uwwlogo_new2.png") no-repeat left center;
+  background-size: 60%;
+  height:60px;
+  width: 100px
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.jumbotron{
+  background:url("../images/uwwjumbotron.jpg") center no-repeat;
+  background-size: cover;
+}
+
+.article-content {
+  text-align: justify;
+}
+
+.schedule {
+  display:table-row;
+}
+
+.time-col {
+  display:table-cell;
+  white-space: nowrap;
+  padding-right: 20px;
+}
+
+.content-col {
+  display:table-cell;
+}
+
+.btn {
+  margin: 5px 20px 5px 20px;
+}
+
+.session {
+  color: #363672;
+}
+
+.presentation-title {
+  font-weight: bold;
+}
+.speaker {
+  color: #444444;
+}

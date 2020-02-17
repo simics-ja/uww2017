@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program title="UWW2017">
+	<date title="12月22日（金）">
+		<schedule type="session" title="顔" time="11:00-12:00" chair="宮下（三菱総研）">
+			<presentation title="赤外線フォトリフレクタを用いた眼球運動計測による睡眠深度の推定" speaker="松井 駿" />
+			<presentation title="ウェアラブルデバイスを用いたヘアケア支援システム" speaker="毛 昊_" />
+			<presentation title="鼻腔情報に基づく状況認識システムの実装と評価" speaker="小玉 亮輔" />
+			<presentation title="メガネ型デバイスを用いた経皮水分蒸散量の常時測定システム" speaker="田中 洸平" />
+		</schedule>
+
+		<schedule type="break" title="昼食" time="12:00-13:00" />
+
+		<schedule type="session" title="エンタメ" time="13:00-14:15" chair="上田（神戸大）">
+			<presentation title="ペンの把持力・せん断力測定による筆記状態推定" speaker="近藤 杏祐" />
+			<presentation title="ホールセンサを用いたルービックキューブの回転認識デバイスの実装" speaker="東南 颯" />
+			<presentation title="人と植物のインタラクション促進システムにおける植物の擬似感情に関する評価" speaker="赫 寧" />
+			<presentation title="二次元キャラクタと人間のポージング類似性判断基準の評価" speaker="田中 大賀" />
+			<presentation title="モーションキャプチャを用いた着ぐるみポージング練習システムの評価" speaker="中山 遼" />
+		</schedule>
+
+		<schedule type="break" title="休憩" time="14:15-14:20" />
+
+		<schedule type="session" title="支援" time="14:20-15:35" chair="清水（神戸大）">
+			<presentation title="足圧バランス矯正のための音声フィードバック方法の検討" speaker="西山 勲" />
+			<presentation title="日常動作におけるHMDの揺れを再現したシミュレーションアプリの設計と実装" speaker="松浦 裕久" />
+			<presentation title="単語間の意味的類似度を用いた数字語呂自動生成システム" speaker="袴田 はるか" />
+			<presentation title="装着型センサを用いた読み聞かせ時の興味推定手法の評価" speaker="大西 鮎美" />
+			<presentation title="鞄を掛けた肩の左右判定を行うシステムの提案" speaker="磯山 直也" />
+		</schedule>
+
+		<schedule type="break" title="休憩" time="15:35-15:40" />
+
+		<schedule type="session" title="認識" time="15:40-16:55" chair="双見（神戸大）">
+			<presentation title="装着位置および姿勢による衣服のシワを用いた入力方法の性能評価" speaker="上田 健太郎" />
+			<presentation title="他者表情提示システムによる自閉スペクトラム症者のコミュニケーション支援" speaker="堀江 彩太" />
+			<presentation title="学習ジェスチャ間の類似性に基づく正解ジェスチャ範囲決定手法" speaker="出田 怜" />
+			<presentation title="未定" speaker="Michail Sidrov" />
+			<presentation title="未定" speaker="宮下 浩一" />
+		</schedule>
+
+		<schedule type="break" title="休憩" time="16:55-17:00" />
+
+		<schedule type="session" title="究" time="" chair="出田（神戸大）">
+			<presentation title="未定" speaker="瀬川 典久" />
+			<presentation title="未定" speaker="大村 廉" />
+			<presentation title="eSports におけるプレイヤー間のコミュニケーションについて" speaker="柳沢 豊" />
+			<presentation title="学習者の表出動作から心的状態を推定し集計・フィードバックするシステムの構想" speaker="加藤 浩" />
+		</schedule>
+
+		<schedule type="break" title="懇親会" time="18:00-19:30" />
+
+		<schedule type="break" title="休憩" time="19:30-20:30" />
+
+		<schedule type="session" title="ナイトセッション" time="20:30-23:00">
+		</schedule>
+	</date>
+	<date title="12月23日（土）">
+		<schedule type="session" title="交通" time="9:30-10:30" chair="清水（神戸大）">
+			<presentation title="衝突警報システムがドライバーの安全運転技能に及ぼす影響と持続性の調査" speaker="_永 翔" />
+			<presentation title="歩行空間ネットワークデータの自動生成に向けた点群合成手法" speaker="高橋 一生" />
+			<presentation title="屋内歩行空間ネットワークの自動生成に用いる3Dデータの誤差補正手法の提案" speaker="原崎 將吾" />
+			<presentation title="データ改変の伴う車両時刻表を用いた乗り遅れ防止のための自制能力支援手法" speaker="双見 京介" />
+		</schedule>
+
+		<schedule type="break" title="休憩" time="10:30-10:35" />
+
+		<schedule type="session" title="生活" time="10:35-11:50" chair="大西（神戸大）">
+			<presentation title="機器の動作影響を考慮したホームネットワークのためのECAルールの整合性検証" speaker="篠原 諒恭" />
+			<presentation title="水圧センサを用いた浴槽における入浴者識別手法" speaker="中山 紗理奈" />
+			<presentation title="浴室における行動認識を目的とした加速度センサ内蔵シャワーヘッドの提案" speaker="西垣 佑介" />
+			<presentation title="授乳中の母親のスマートフォン操作と乳児のぐずりの関係調査" speaker="中川 遼" />
+			<presentation title="休憩時間の過ごし方が作業パフォーマンスに及ぼす影響の調査に向けて" speaker="三木 隆裕" />
+		</schedule>
+
+		<schedule type="break" title="昼食" time="11:50-12:50" />
+
+		<schedule type="session" title="口" time="12:50-13:50" chair="出田（神戸大）">
+			<presentation title="耳装着型ウェアラブルデバイスを用いた呼吸運動識別手法" speaker="稲村 涼" />
+			<presentation title="筋電位センサを用いた偏咀嚼防止及び咀嚼回数促進システムの提案" speaker="正月 凌介" />
+			<presentation title="頸部周径変化に基づく嚥下判定手法" speaker="山中 悠聖" />
+			<presentation title="口周辺情報のセンシングに基づく状況認識" speaker="山下 将平" />
+		</schedule>
+
+		<schedule type="break" title="休憩" time="13:50-13:55" />
+
+		<schedule type="session" title="提示" time="13:55-14:55" chair="大西（神戸大）">
+			<presentation title="AR技術を用いたテクスチャ変更による人物行動制御方式" speaker="櫻木 大和" />
+			<presentation title="ROSにおける確率的手法を用いたスケジューリングの提案" speaker="佐藤 太" />
+			<presentation title="部屋内に設置した複数の顔ロボットによる注意誘導効果" speaker="江口 綾亮" />
+			<presentation title="情報提示を用いた主観時間制御におけるウェアラブルデバイスの比較検討" speaker="清水 友順" />
+		</schedule>
+
+		<schedule type="break" title="休憩" time="14:55-15:00" />
+
+		<schedule type="session" title="測位" time="15:00-15:45" chair="上田（神戸大）">
+			<presentation title="人体や所持方法による電波減衰を考慮したWi-Fi測位の精度向上手法" speaker="原田 翔平" />
+			<presentation title="PDR測位における係留状態の判定" speaker="川内 菜津美" />
+			<presentation title="Wi-Fi測位モデルの経年劣化に特化した異常検知手法" speaker="山本 晃平" />
+		</schedule>
+
+		<schedule type="break" title="休憩" time="15:45-15:50" />
+
+		<schedule type="session" title="鑽" time="15:50-16:35" chair="双見（神戸大）">
+			<presentation title="スマホの通知出現からユーザによる消去までのセンサデータを用いた端末状態推定" speaker="村尾 和哉" />
+			<presentation title="未定" speaker="寺田 努" />
+			<presentation title="未定" speaker="塚本 昌彦" />
+		</schedule>
+
+		<schedule type="break" title="クロージング" time="16:35-16:50" />
+	</date>
+</program>
